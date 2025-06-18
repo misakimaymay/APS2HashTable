@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\aps2\aps2\bin\Debug\aps2.exe.config
+C:\Users\aluno\source\repos\aps2\aps2\bin\Debug\aps2.exe
+C:\Users\aluno\source\repos\aps2\aps2\bin\Debug\aps2.pdb
+C:\Users\aluno\source\repos\aps2\aps2\obj\Debug\aps2.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\aps2\aps2\obj\Debug\aps2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\aps2\aps2\obj\Debug\aps2.exe
+C:\Users\aluno\source\repos\aps2\aps2\obj\Debug\aps2.pdb
